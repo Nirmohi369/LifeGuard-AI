@@ -86,15 +86,4 @@ Now if you didn't change any of the configurations mentioned above or the Port, 
 - Python
 - Machine Learning Models - SciKit Learn
 
-## The Team
-
-- [Yash Bharambay](https://github.com/YashBharambay)
-- [Ridham Patel](https://github.com/ridhampatel14/)
-- [Dhruv Parikh](https://github.com/DhruvDRE)
-- [Vaishnavi Nayak](https://github.com/Vaishnavi-Nayak28)
-- [Keshav Mishra](https://github.com/kmishra6)
-- [Mahesh Pisharody](https://github.com/mahesh349)
-
-```
-
 ```
